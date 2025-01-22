@@ -12,17 +12,9 @@
     "better-sqlite3": "^11.8.1",
     "next": "^15.0.0",
     "react": "^19.0.0",
-<<<<<<< HEAD
-    "react-dom": "^19.0.0"
-=======
-<<<<<<< HEAD
-    "react-dom": "^19.0.0"
-=======
     "react-dom": "^19.0.0",
     "slugify": "^1.6.6",
     "xss": "^1.0.15"
->>>>>>> 22f423f (Save meal function implemented)
->>>>>>> 074fc10 (Implemented Save function)
   },
   "devDependencies": {
     "eslint": "^8",
